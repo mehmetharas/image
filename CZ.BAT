@@ -1,0 +1,5 @@
+cd IMAGE72
+A4GRAB
+PMTC
+CD..
+CLS

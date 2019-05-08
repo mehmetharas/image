@@ -1,0 +1,39 @@
+IMAGE72 PAINTING SOFTWARE VERSION 4.2
+
+COPYRIGHT (C) 1990 *****A4TECH (U.S.A.) CO., LTD.*****
+
+FAR EAST OFFICE                  AMERICAN OFFICE:(AGENT)
+21,Lane 143 Sec.3 Jen Ai RD.,    38 ROUTE 46 EAST LODI,
+TAIPEI, TAIWAN, R.O.C.           NJ07644 U.S.A.
+TEL:886-2-7730508                TEL:201-4780302
+FAX:886-2-7512727                FAX:201-4781105
+
+***MINIMUM REQUIREMENTS:***
+
+1. SYSTEM MEMORY OF AT LEAST 640KB.
+2. HERCULES EGA VGA ADAPTER AND MONITOR OR COMPATIBLE.
+3. IBM PC, XT, AT/286/386 OR COMPATIBLE.
+4. DOS 2.1 OR HIGHER.
+5. ANY MOUSE RECOMMENDED.
+6. A4SCAN HAND-HELD SCANNER AS-8000 OR AS-8000P RECOMMENDED.
+
+***GETTING STARTED***:
+
+    Running IMAGE72  Painting Program. VERSION 4.2
+        Step 1: At the DOS prompt load your mouse driver into memory:
+                A:>mouse<ENTER>   (Use the name of your mouse driver.)
+        Step 2: At the DOS prompt, insert your IMAGE72 diskette #1 into drive
+                A and type:
+                    A:>MONO<ENTER>(for Hercules mode only)
+                    A:>EGA<ENTER>(for Mono mode with  EGA or VGA monitor)
+                    A:>PMTC<ENTER>(for Color mode with EGA monitor)
+                    A:>PMTV<ENTER>(for Color mode with VGA monitor)
+
+*******QUESTIONS & ANSWERS******
+
+1. RUN VERSION 4.2 OR HIGHER. IF YOU SAVE *.PCX,*.TIF, *.IMG, *.MSP FILE FORMAT,
+   YOU MUST INVERSE THE SCREEN TO WHITE BACKGROUND.
+
+ ****END OF README****
+
+
